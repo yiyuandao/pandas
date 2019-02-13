@@ -2,6 +2,7 @@
 ---
 
 ## ELF
+http://sco.com/developers/gabi/latest/contents.html
 
 ## 编译
 
